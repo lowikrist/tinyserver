@@ -7,6 +7,7 @@ using System.IO;
 namespace tinyserver {
     class Program
     {
+        // port on which the server listens 
         static int port = 8080;
         static void Main(string[] args) {
 
